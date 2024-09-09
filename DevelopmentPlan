@@ -1,3 +1,28 @@
-- September
-  - End goal: To be able to explain the NaaVRE to a user
-- October
+- 2024
+  - September
+    - Goal: To be able to explain the NaaVRE to a user
+    - Actions
+      - NaaVRE Virtual Labs: Try out 
+        - Reproduce some work of student theses.
+        - Explore the possibility to LTER-LIFE digital twins of the Veluwe and Wadden Sea
+    - ToRead
+      - Theses
+        - Component containerizer
+          - Jordi Boon jordi.boon@student.uva.nl, [Enhancing R Code Containerization through Automated Input/Output Detection and Type Inference](https://surfdrive.surf.nl/files/index.php/s/dtFQ9cB3EwbSYTN) 
+          - Diederik Blanson Henkemans, [R-Containerizer: A Containerization Tool For R Scripts In A Jupyter Environment](https://surfdrive.surf.nl/files/index.php/s/X0ELKSAtpMVzsYQ) 
+          - Sjoerd Hulleman <sjoerd.hulleman@student.uva.nl>, R + C++ in Digital twin workflows
+          - R + Shiny: [Ongoing. Discuss with student.]
+        - Digital twins
+          - Chen, K. (Kaiwei) k.chen2@student.vu.nl, [Converting a Legacy Scientific Application as FAIR Digital Objects in Cloud](https://surfdrive.surf.nl/files/index.php/s/KL39uQFiwyqwol1)
+          - Kaiwei Chen, [modeling techniques in Digital twin](https://surfdrive.surf.nl/files/index.php/s/Fa23v896preydJ8)
+          - Milan Kopp, Composable Component Architecture: Model Wrapping and Integration Framework For Digital Twins	[Ongoing. Discuss with student.]
+  - October
+    - Goals: 
+      - NaaVRE components
+        - To understand the components of NaaVRE.
+          - Especially be familiar with the component containerizer.
+      - FAIR
+        - To find out more about what would make a digital object FAIR for an ecologist.
+- 2026
+  - August
+    - End goal: To be an expert on the implementation of Digital Twins in NaaVRE.
